@@ -3,7 +3,7 @@
 
 Thanks to [yovi.putra]()
 
-[DeviceInfoUtils.java]()
+[DeviceInfoUtils.java](https://github.com/gzeinnumer/IMEIAndroid/blob/master/app/src/main/java/com/gzeinnumer/imeiandroid/DeviceInfoUtils.java)
 
 ---
 
